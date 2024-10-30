@@ -40,4 +40,16 @@ python controlador.py
 
 🎉 Running the Game on client device 
 
-After setting up, you can compile and run the game! It's a fun way to explore basic client-server interactions while watching a happy hen survive a zombie apocalypse! 🐔🧟‍♂️
+After setting up, you can compile and run the game! It's a fun way to explore basic client-server interactions while watching a happy hen survive a zombie apocalypse! 🐔🧟‍♂️]
+
+## EXAMPLES
+
+## SETUP.EXE 
+
+![image](https://github.com/user-attachments/assets/ea9f3290-b48f-4061-af3c-09c210387c06)
+
+## CONTROLADOR.PY 
+
+![image](https://github.com/user-attachments/assets/e9697808-e153-4d98-ac0f-d56b2d1a1b1b)
+
+
